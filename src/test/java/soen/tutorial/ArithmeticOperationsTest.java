@@ -18,7 +18,7 @@ public class ArithmeticOperationsTest {
 		assertEquals(expected, actual);
 
 	}
-/*
+
     @Test
     public void testSub()
     {
@@ -28,6 +28,6 @@ public class ArithmeticOperationsTest {
         Integer expected = 4;
         fail("must fail");
 
-    }*/
+    }
 
 }
